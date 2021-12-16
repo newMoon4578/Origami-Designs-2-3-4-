@@ -1,0 +1,21 @@
+
+.header{
+    background-color: rgb(8, 185, 255);
+    color: rgb(250, 250, 250);
+    display:flex;
+    justify-content: space-between
+    }
+
+h2{
+    background-color: salmon;
+    padding: 15px
+}
+
+a:link{color:rgb(176, 3, 245)}
+a:visited{color: rgb(255, 255, 255)}
+
+
+.class:hover img{
+    opacity: 0.55;
+    transform: scale(0.8);
+}
